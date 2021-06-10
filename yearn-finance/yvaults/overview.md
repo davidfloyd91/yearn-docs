@@ -5,6 +5,7 @@
 [yVaults](https://yearn.finance/vaults) are like savings accounts for your crypto assets. They accept your deposit, then route it through a strategies which seek out the highest yield available in DeFi. 
 
 ![](https://i.imgur.com/yXnJqsn.png)
+
 *yVaults at yearn.finance*
 
 ## Zap in with any asset 
